@@ -1,0 +1,8 @@
+.custom-bg{
+    background-image: url('https://s3.envato.com/files/e773d8dd-2000-4c8e-a4cc-57e6cee6633c/inline_image_preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-contain{
+    margin: 140px 0;
+}
